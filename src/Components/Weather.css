@@ -1,0 +1,19 @@
+
+.card {
+    background-color: rgba(121, 135, 130, 0.437);
+    width: 60%;
+    margin: 1rem auto;
+    border-radius: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.card__title {
+    color: greenyellow;
+}
+
+.card__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
