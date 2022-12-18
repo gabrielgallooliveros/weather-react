@@ -11,7 +11,7 @@ body {
     align-items: center;
     min-height: 100vh;
     width: 100%;
-    background-image: url("clima.jpg");
+    background-image: url("/ApiWeather-master/public/clima.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
